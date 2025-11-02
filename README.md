@@ -72,6 +72,10 @@ Two primary visualizations were created using `Matplotlib`:
 1. **Cumulative Adoption Curve** – Actual vs. Predicted UPI users over time.  
 2. **Adopter Category Curve** – Color-coded representation of diffusion across adopter categories.
 
+<img width="710" height="370" alt="Model Graph" src="https://github.com/user-attachments/assets/f84d4e72-2088-42ac-9b61-d2f07e785309" />
+
+<img width="907" height="473" alt="Bar graph of Adopters" src="https://github.com/user-attachments/assets/89c0d626-566d-41c2-9ad0-394dedc5cc56" />
+
 ---
 
 ### 🧾 3. Tools and Libraries
@@ -93,5 +97,7 @@ Two primary visualizations were created using `Matplotlib`:
 - The **market potential (`m`)** of ~650 million users suggests a near-saturation level by 2030.
 
 This demonstrates that UPI’s diffusion in India follows a **social contagion model**, where interpersonal influence dominates after the initial innovation phase.
+
+<img width="328" height="63" alt="Coefficients" src="https://github.com/user-attachments/assets/0bb75058-1fe1-4ce4-8440-6d39b5e39b93" />
 
 ---
